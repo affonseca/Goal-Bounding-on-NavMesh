@@ -5,5 +5,5 @@ We do not know if we are the first to do this since this algorithm is still very
 
 Work by:
   - André Fonseca - [@affonseca](https://github.com/affonseca)
-  - Daniel Rodrigues - 
+  - Daniel Rodrigues - [@theevilman](https://github.com/theevilman)
   - Samuel Gomes - [@SamGomes](https://github.com/SamGomes)
